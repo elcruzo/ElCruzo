@@ -14,7 +14,7 @@ I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) an
 - 👯 I’m looking to collaborate and work on open-source projects!
 <!-- - 🤔 I’m looking for help with -->
 
-- ⚡ Fun fact: I get bored easily, so I can't watch a movie from start to finish if it's more than 20 mins!
+- ⚡ Fun fact: I get bored easily, so I can't watch a movie from start to finish if it's more than 20 mins!🙃
 
 ***
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elcruzo&theme=transparent&hide_border=true)](https://git.io/streak-stats)
