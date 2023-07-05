@@ -17,8 +17,15 @@ I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) an
 - ⚡ Fun fact: I get bored easily, so I can't watch a movie from start to finish if it's more than 20 mins!🙃
 
 ***
-<span>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elcruzo&theme=transparent&hide_border=true)](https://git.io/streak-stats)</span>
-<span>!["My Most Used Languages"](https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=elcruzo&layout=compact&card_width=400&hide_title=true&theme=github_dark&t&langs_count=10&hide_border=true)</span>
+
+<div style="display: flex; flex-direction: row;">
+    <>
+        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elcruzo&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+    </>
+    <>
+        !["My Most Used Languages"](https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=elcruzo&layout=compact&card_width=400&hide_title=true&theme=github_dark&t&langs_count=10&hide_border=true)
+    </>
+</div>
 
 ***
 
