@@ -18,11 +18,11 @@ I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) an
 
 ***
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elcruzo&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+!["My Top Languages"](https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=elcruzo&layout=compact&card_width=400&hide_title=true&theme=github_dark&t&langs_count=10&hide_border=true)
 
 ***
 
-!["My Top Languages"](https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=elcruzo&layout=compact&card_width=400&hide_title=true&theme=github_dark&t&langs_count=10&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elcruzo&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ***
 
