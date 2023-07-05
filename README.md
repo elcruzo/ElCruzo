@@ -22,7 +22,7 @@ I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) an
 
 ***
 
-!["My Top Languages"](https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=elcruzo&layout=compact&card_width=400&hide_title=true&theme=github_dark&t&langs_count=10&hide_border=true)
+!["My Top Languages"](https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=elcruzo&layout=compact&card_width=400&hide_title=true&theme=github_dark&t&langs_count=10&hide_border=false)
 
 ***
 
