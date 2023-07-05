@@ -9,7 +9,7 @@ I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) an
 - 🔭 I’m currently working on Projects with Python, Golang
 - 🌱 I’m currently learning Cybersecurity and Penetration Testing
 - 💬 Ask me about Python & JavaScript
-- 📫 How to reach me: [![linkedIn_icon](./icons/linkedin.svg)](https://www.linkedin.com/in/elcruzo/) and [![gmail_icon](./icons/gmail.svg)](mailto:ayomideadekoya266@gmail.com)
+- 📫 How to reach me: [![linkedIn_icon](./icons/linkedin.svg)](https://www.linkedin.com/in/elcruzo/) & [![gmail_icon](./icons/gmail.svg)](mailto:ayomideadekoya266@gmail.com)
 - 😄 Pronouns: He/Him/His
 - 👯 I’m looking to collaborate and work on open-source projects!
 <!-- - 🤔 I’m looking for help with -->
@@ -18,14 +18,11 @@ I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) an
 
 ***
 
-<div style="display: flex; flex-direction: row;">
-    <>
-        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elcruzo&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-    </>
-    <>
-        !["My Most Used Languages"](https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=elcruzo&layout=compact&card_width=400&hide_title=true&theme=github_dark&t&langs_count=10&hide_border=true)
-    </>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elcruzo&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+***
+
+!["My Top Languages"](https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=elcruzo&layout=compact&card_width=400&hide_title=true&theme=github_dark&t&langs_count=10&hide_border=true)
 
 ***
 
