@@ -2,7 +2,7 @@
 
 ### I'm Ayomide Adekoya, call me ElCruzo
 
-A self-motivated and enthusiastic Software Developer. With a thorough understanding of Software Engineering principles, I am keen on developing dynamic websites and scalable web applications for varying types of users.
+A self-motivated and enthusiastic Software developer with a thorough understanding of Software engineering principles, and a passion for Robotics and Autonomous Systems. I am keen on developing dynamic systems and scalable applications to gain the much needed expertise which, in the near future, I intend to the Robotics industry.
 
 I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) and Computer Science (minor) at [Howard University](https://www.howard.edu). I'm open to new opportunities and looking to gain as much experience as possible.
 
