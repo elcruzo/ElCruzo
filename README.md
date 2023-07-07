@@ -1,12 +1,12 @@
 # Hi there 👋
 
-### I'm Ayomide Adekoya, call me ElCruzo
-
-I lost access to my main github account :( 
+### I'm Ayomide Adekoya, call me ElCruzo 
 
 A self-motivated and enthusiastic Software developer with a thorough understanding of Software engineering principles, and a passion for Robotics and Autonomous Systems. I am keen on developing dynamic systems and scalable applications to gain the much needed expertise which, in the near future, I intend to the Robotics industry.
 
 I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) and Computer Science (minor) at [Howard University](https://www.howard.edu). I'm open to new opportunities and looking to gain as much experience as possible.
+
+I lost access to my main GitHub account :(
 
 - 🔭 I’m currently working on Projects with Python, Golang
 - 🌱 I’m currently learning Cybersecurity and Penetration Testing
