@@ -4,7 +4,7 @@
 
 A self-motivated and enthusiastic Software developer with a thorough understanding of Software engineering principles and a passion for Robotics and Autonomous systems. I am keen on developing dynamic systems and scalable applications to gain the much-needed experience that, in the near future, I intend to apply to make significant contributions to the ever-changing world of technology.
 
-I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) and Computer Science (minor) at [Howard University](https://www.howard.edu). I'm open to new opportunities and looking to gain as much experience as possible.
+I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) and Computer Science (minor) at [Howard University](https://www.howard.edu). I am open to new opportunities and looking to gain as much experience as possible.
 
 I lost access to my main GitHub account :(
 
