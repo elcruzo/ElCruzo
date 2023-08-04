@@ -1,22 +1,28 @@
-# Hi there 👋
+# Hi there 👋,
 
 ### I'm Ayomide Adekoya; call me ElCruzo 
 
-A self-motivated and enthusiastic Software developer with a thorough understanding of Software engineering principles and a passion for Robotics and Autonomous systems. I am keen on developing dynamic systems and scalable applications to gain the much-needed experience that, in the near future, I intend to apply to make significant contributions to the ever-changing world of technology.
+A self-motivated and enthusiastic Software developer with a thorough understanding of Software engineering principles and a passion for Robotics and Autonomous systems.
 
-I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) and Computer Science (minor) at [Howard University](https://www.howard.edu). I am open to new opportunities and looking to gain as much experience as possible.
+I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) and Computer Science (minor) at [Howard University](https://www.howard.edu). I am geared toward developing dynamic systems and scalable applications to make significant contributions to the ever-changing world of technology.
 
-I lost access to my main GitHub account :(
+- I lost access to my main GitHub account :(
 
 - 🔭 I’m currently working on Projects with Python, Golang
 - 🌱 I’m currently learning Cybersecurity and Penetration Testing
 - 💬 Ask me about Python & JavaScript
-- 📫 How to reach me: [![linkedIn_icon](./icons/linkedin.svg)](https://www.linkedin.com/in/elcruzo/) & [![gmail_icon](./icons/gmail.svg)](mailto:ayomideadekoya266@gmail.com)
+- 📫 How to reach me: [![gmail_icon](./icons/gmail.svg)](mailto:ayomideadekoya266@gmail.com)
 - 😄 Pronouns: He/Him/His
 - 👯 I’m looking to collaborate and work on open-source projects!
 <!-- - 🤔 I’m looking for help with -->
 
-- ⚡ Fun fact: I get bored easily, so I can't watch a movie from start to finish if it's more than 20 mins!🙃
+<h3 align="left">Connect with me:</h3>  
+<p align="left">
+<a href="https://twitter.com/symelcruzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elcruzo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elcruzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elcruzo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/elcruzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elcruzo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ElcruzoSYM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elcruzo" height="30" width="40" /></a>
+</p>
 
 ***
 
