@@ -6,7 +6,7 @@ A self-motivated and enthusiastic Software developer with a thorough understandi
 
 I'm currently pursuing my Bachelors' degree in Electrical Engineering (major) and Computer Science (minor) at [Howard University](https://www.howard.edu). I am geared toward developing dynamic systems and scalable applications to make significant contributions to the ever-changing world of technology.
 
-- I lost access to my main GitHub account :(
+### I lost access to my main GitHub account :(
 
 - 🔭 I’m currently working on Projects with Python, Golang
 - 🌱 I’m currently learning Cybersecurity and Penetration Testing
