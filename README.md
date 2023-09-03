@@ -2,9 +2,9 @@
 
 ### I'm Ayomide Adekoya; call me ElCruzo 
 
-Bringing ideas to life with code is my goal.
+I love bringing ideas to life with code.
 
-I'm currently pursuing my Bachelors' degree at [Howard University](https://www.howard.edu). Geared toward developing dynamic and scalable systems that will contribute to the ever-changing world of technology.
+I'm currently pursuing my Bachelors' degree at [Howard University](https://www.howard.edu) and geared toward developing dynamic and scalable systems that will contribute to the ever-changing world of technology.
 
 ### THIS IS MY SIDE GITHUB ACCOUNT. I JUST COME HERE TO DUMP MY PROJECTS AND LEAVE :)
 
