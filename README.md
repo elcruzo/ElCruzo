@@ -6,9 +6,9 @@ I love bringing ideas to life with code.
 
 ### THIS IS MY SIDE GITHUB ACCOUNT. I JUST COME HERE TO DUMP MY PROJECTS AND LEAVE :)
 
-- 🔭 I’m currently working on Projects with Python, Golang
-- 🌱 I’m currently learning Rust, Java, and a little Penetration Testing
-- 💬 Ask me about Python & JavaScript
+- 🔭 I’m currently working on Projects with Python, Golang.
+- 🌱 I’m currently learning Rust, Java, and Shell scripting.
+- 💬 Ask me about Python & JavaScript.
 - 📫 How to reach me: [![gmail_icon](./icons/gmail.svg)](mailto:ayomideadekoya266@gmail.com)
 - 😄 Pronouns: He/Him/His
 - 👯 I’m looking to collaborate and work on open-source projects!
