@@ -4,7 +4,7 @@
 
 I love bringing ideas to life with code.
 
-### THIS IS MY SIDE GITHUB ACCOUNT. I JUST COME HERE TO DUMP MY PROJECTS AND LEAVE :)
+### THIS IS MY SIDE GITHUB ACCOUNT. I COME HERE JUST TO DUMP MY EXCITING PROJECTS AND LEAVE :)
 
 - 🔭 I’m currently working on Projects with Python, Golang.
 - 🌱 I’m currently learning Rust, Java, and Shell scripting.
