@@ -1,12 +1,12 @@
 # Hi there 👋,
 
-### I'm Ayomide Adekoya; call me ElCruzo 
+### I'm Ayomide Adekoya; call me Caleb 
 
 I love bringing ideas to life with code.
 
 ### THIS IS MY SIDE GITHUB ACCOUNT. I COME HERE JUST TO DUMP MY EXCITING PROJECTS AND LEAVE :)
 
-- 🔭 I’m currently working on Projects with Python, Golang.
+- 🔭 I’m currently working on Projects with Python, Golang, JavaScript.
 - 🌱 I’m currently learning Rust, Java, and Shell scripting.
 - 💬 Ask me about Python & JavaScript.
 - 📫 How to reach me: [![gmail_icon](./icons/gmail.svg)](mailto:ayomideadekoya266@gmail.com)
