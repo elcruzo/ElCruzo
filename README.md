@@ -14,6 +14,9 @@ I love bringing ideas to life with code.
 - 👯 I’m looking to collaborate and work on open-source projects!
 <!-- - 🤔 I’m looking for help with -->
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20views&color=0e75b6&style=flat" alt="elcruzo" /> </p>
+
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
 <a href="https://twitter.com/symelcruzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elcruzo" height="30" width="40" /></a>
