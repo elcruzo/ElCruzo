@@ -22,7 +22,7 @@ I love bringing ideas to life with code.
 <a href="https://twitter.com/symelcruzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elcruzo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elcruzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elcruzo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/elcruzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elcruzo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ElcruzoSYM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elcruzo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ayomide_adekoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elcruzo" height="30" width="40" /></a>
 </p>
 
 ***
