@@ -4,9 +4,9 @@
 
 ---
 
-**Ex-Meta, current Apple engineer** building ML systems that scale to millions of devices.
+**Ex-Meta, current Apple engineering Intern** building AI systems that scale globally.
 
-Published researcher, AI educator, and infrastructure builder. Currently shipping carrier intelligence models in iOS while building the next generation of accessible AI systems.
+Published NLP researcher at 19 and infra architect. Building AI that actually works for everyone — not just people with perfect internet.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20views&color=0e75b6&style=flat" alt="elcruzo" /> </p>
 
