@@ -4,9 +4,7 @@
 
 ---
 
-**Ex-Meta, current Apple engineering Intern** building AI systems that scale globally.
-
-Published NLP researcher at 19 and infra architect. Building AI that actually works for everyone — not just people with perfect internet.
+published nlp research @ 19, building infra and AI that actually works for everyone.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20views&color=0e75b6&style=flat" alt="elcruzo" /> </p>
 
@@ -36,7 +34,7 @@ def current_focus():
 | **LLMetrics** | Real-time inference profiler with GPU monitoring and alerting | Prometheus, Grafana, FastAPI |
 | **EvalSync** | Automated LLM integration testing with schema enforcement | Pytest, Postman, CI/CD Integration |
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -81,15 +79,6 @@ def current_focus():
   <img src="https://raw.githubusercontent.com/elcruzo/elcruzo/output/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 Achievement Unlocked
-
-- 🍎 **Apple SWE Intern** - Shipping ML models in iOS wireless stack
-- 🔵 **Meta Alum** - Built full-stack platforms for millions of users  
-- 📚 **Published Researcher** - NLP bias detection with 85% accuracy
-- 🎓 **ML Educator** - Taught 200+ developers across Nigeria
-- 🏆 **HP FOWA Winner** - 1st place in innovation challenge
-- ⭐ **inSTEM Scholar** - National Science & Technology Foundation
-
 ## 💡 Fun Facts
 <div align="center">
   
@@ -132,7 +121,7 @@ def current_focus():
 
 ---
 
-> *"Building the infrastructure that makes intelligence accessible everywhere"*
+> *"building the infrastructure that makes intelligence accessible everywhere"*
 
 <div align="center">
   
