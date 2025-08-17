@@ -8,32 +8,6 @@ published nlp research @ 19, building infra and AI that actually works for every
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20views&color=0e75b6&style=flat" alt="elcruzo" /> </p>
 
-```python
-def current_focus():
-    return {
-        "day_job": "ML Engineering Intern @ Apple (iOS wireless stack)",
-        "research": "NLP bias detection @ Howard University", 
-        "building": [
-            "RouterRAG (scalable RAG with MoE expert routing)",
-            "SignalCLI (LLM-powered knowledge CLI with schema validation)", 
-            "CampusGPT (fine-tuned LLaMA 2 for domain-specific Q&A)",
-            "LLMetrics (real-time inference profiler dashboard)",
-            "EvalSync (automated LLM integration test suite)"
-        ],
-        "impact": "10K+ users, 85% model accuracy, 50+ complex queries optimized"
-    }
-```
-
-## 🚀 What I'm Building
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **RouterRAG** | Scalable RAG with MoE expert routing and domain-specific pipelines | Milvus, LLaMA, Softmax Classification |
-| **SignalCLI** | LLM-powered knowledge CLI with schema validation and observability | FastAPI, Weaviate, JSONformer, Docker |
-| **CampusGPT** | Fine-tuned LLaMA 2 7B for campus Q&A with QLoRA optimization | HuggingFace, PEFT, PyTorch, GPU Inference |
-| **LLMetrics** | Real-time inference profiler with GPU monitoring and alerting | Prometheus, Grafana, FastAPI |
-| **EvalSync** | Automated LLM integration testing with schema enforcement | Pytest, Postman, CI/CD Integration |
-
 ## 🛠️ Tech Stack
 
 **Languages:**  
@@ -122,14 +96,3 @@ def current_focus():
 ---
 
 > *"building the infrastructure that makes intelligence accessible everywhere"*
-
-<div align="center">
-  
-⚡ **Quick Stats:** ⚡  
-
-🔥 **10,000+** users served  
-🎯 **85%** model accuracy achieved  
-🚀 **<200ms** inference latency  
-💡 **5** production AI systems  
-
-</div>
