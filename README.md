@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Ayo+%F0%9F%91%8B;Ex-Meta%2C+Ex+Apple+Engineer;Building+AI+Infrastructure+at+Scale;Published+ML+Researcher;10K%2B+Users+Served" alt="Typing SVG" />
-</div>
+hey, i'm ayo!
 
 ---
 
-published nlp research @ 19, building infra and AI that actually works for everyone.
+tl;dr - ex ml @ apple, ex swe @ meta, published nlp research @ 19, d.e. shaw fellow, national science and technology medals foundation award scholar, 2023 hp fowa innovation challenge winner, amazonnext, tmcf & uncf scholar. building infra and AI that anyone can use, no matter their background.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20views&color=0e75b6&style=flat" alt="elcruzo" /> </p>
 
