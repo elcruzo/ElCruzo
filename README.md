@@ -1,4 +1,4 @@
-hey, i'm ayo!
+hey, i'm ayo, i enjoy bringing ideas to life with code!
 
 ---
 
