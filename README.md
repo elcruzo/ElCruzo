@@ -2,7 +2,7 @@ hey, i'm ayo, i enjoy bringing ideas to life with code!
 
 ---
 
-tl;dr - ex. ml @ apple, ex. swe @ meta, published ml research @ 19, d.e. shaw fellow, national science and technology medals foundation award recipient, 2023 hp fowa innovation challenge winner, amazonnext, tmcf & uncf scholar. always building.
+tl;dr – Ex-ML @ Apple, Ex-SWE @ Meta, D. E. Shaw Fellow, National Science and Technology Medals Foundation Award Recipient, 2023 HP FOWA Innovation Challenge Winner, AmazonNext, TMCF & UNCF Scholar. Always building.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20views&color=0e75b6&style=flat" alt="elcruzo" /> </p>
 
