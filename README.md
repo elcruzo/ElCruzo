@@ -1,10 +1,13 @@
-hey, i'm ayo, i enjoy bringing ideas to life with code!
+# Hey, I'm Ayo
 
----
+I enjoy bringing ideas to life with code!
 
-tl;dr – Ex-ML @ Apple, Ex-SWE @ Meta, D. E. Shaw Fellow, National Science and Technology Medals Foundation Award Recipient, 2023 HP FOWA Innovation Challenge Winner, AmazonNext, TMCF & UNCF Scholar. Always building.
+**Quick Highlights**  
+Ex-ML @ Apple · Ex-SWE @ Meta · D. E. Shaw Fellow · NSTMF Award Recipient · 2023 HP FOWA Innovation Challenge Winner · AmazonNext · TMCF & UNCF Scholar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20views&color=0e75b6&style=flat" alt="elcruzo" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20views&color=0e75b6&style=flat" alt="elcruzo" /> 
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -42,20 +45,11 @@ tl;dr – Ex-ML @ Apple, Ex-SWE @ Meta, D. E. Shaw Fellow, National Science and 
   <img src="https://github-profile-trophy.vercel.app/?username=elcruzo&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
-## 📈 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elcruzo&custom_title=Ayo's%20Contribution%20Graph&bg_color=0d1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/elcruzo/elcruzo/output/snake.svg" alt="Snake animation" />
-</div>
-
 ## 💡 Fun Facts
 <div align="center">
   
 🔥 Currently debugging why my models work better at 3am  
-🎯 Fun fact: Started coding at 14, now building AI that thinks faster than I do  
+🎯 Started coding at 14, now building AI that thinks faster than I do  
 🌍 From Lagos to Silicon Valley - building bridges with code  
 ☕ Coffee consumed while coding: **ERROR: INTEGER OVERFLOW**  
 
@@ -76,13 +70,6 @@ tl;dr – Ex-ML @ Apple, Ex-SWE @ Meta, D. E. Shaw Fellow, National Science and 
 <a href="mailto:ayomideadekoya266@gmail.com" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" style="filter: invert(1);"/>
 </a>
-</div>
-
-## 📈 Profile Analytics
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/elcruzo?label=Followers&style=for-the-badge&color=F85D7F" alt="followers" />
-  <img src="https://img.shields.io/github/stars/elcruzo?label=Stars&style=for-the-badge&color=F85D7F" alt="stars" />
 </div>
 
 ---
