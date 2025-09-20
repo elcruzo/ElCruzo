@@ -1,4 +1,4 @@
-# Hey, I'm Ayo
+# Hey, I'm Ayo :)
 
 I enjoy bringing ideas to life with code!
 
