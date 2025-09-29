@@ -7,19 +7,19 @@ Ex-ML @ Apple · Ex-SWE @ Meta · D. E. Shaw Fellow · NSTMF Award Recipient · 
   <img src="https://komarev.com/ghpvc/?username=elcruzo&label=Profile%20views&color=0e75b6&style=flat" alt="elcruzo" /> 
 </p>
 
-## 📊 Stats
+## Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcruzo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F85D7F"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=elcruzo&theme=radical&hide_border=true&background=0d1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
 </div>
 
-## 🏆 Trophies
+## Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=elcruzo&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
-## 🌍 Connect
+## Connect
 
 <div align="center">
 <a href="https://elcruzo.com" target="blank">
