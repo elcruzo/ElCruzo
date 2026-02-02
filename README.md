@@ -13,6 +13,6 @@ building [trace](https://tracehardware.com) — ai agents for hardware design. i
 - edge compute — intelligence on constrained hardware
 - data markets for physical labor — paying tradespeople for training data
 
-prev: ml @ apple, meta, d.e. shaw, nasa | howard '26
+prev: ml @ apple, meta, d.e. shaw, nasa | howard '27 (leave)
 
 [elcruzo.com](https://elcruzo.com) · [twitter](https://twitter.com/elcruzosym) · [linkedin](https://linkedin.com/in/elcruzo)
