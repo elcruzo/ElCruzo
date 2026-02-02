@@ -2,7 +2,7 @@
 
 > *"building the infrastructure that makes intelligence accessible everywhere"*
 
-building [trace](https://tracehardware.com) — ai agents for hardware design. idea to pcb in minutes.
+building [trace](https://buildwithtrace.com) — ai agents for hardware design. idea to pcb in minutes.
 
 **interested in:**
 - embodied ai - manipulation, spatial reasoning, contact dynamics
