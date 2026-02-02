@@ -6,12 +6,12 @@ building [trace](https://tracehardware.com) — ai agents for hardware design. i
 
 **interested in:**
 - embodied ai - manipulation, spatial reasoning, contact dynamics
-- world models — agents that predict and plan in physical environments
-- coding agents — systems that write and debug code autonomously
+- world models - agents that predict and plan in physical environments
+- coding agents - systems that write and debug code autonomously
 - systems programming - kernels, drivers, bare metal
 - hardware design - fpgas, pcbs, rtl
-- edge compute — intelligence on constrained hardware
-- data markets for physical labor — paying tradespeople for training data
+- edge compute - intelligence on constrained hardware
+- data markets for physical labor - paying tradespeople for training data
 
 prev: ml @ apple, meta, d.e. shaw, nasa | howard '27 (leave)
 
