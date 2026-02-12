@@ -14,4 +14,4 @@ building [trace](https://buildwithtrace.com) — ai agents for hardware design. 
 
 prev: ml @ apple, meta, d.e. shaw, nasa | howard '27 (leave)
 
-[elcruzo.com](https://elcruzo.com) · [twitter](https://twitter.com/elcruzosym) · [linkedin](https://linkedin.com/in/elcruzo)
+[elcruzo.com](https://ayomide.ai) · [twitter](https://twitter.com/elcruzosym) · [linkedin](https://linkedin.com/in/elcruzo)
