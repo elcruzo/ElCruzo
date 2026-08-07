@@ -1,12 +1,17 @@
 ### hey, i'm Ayo!
 
-**interested in:**
-- hardware design - fpgas, pcbs, rtl
+**working on:**
+- chip placement & SoC integration
+- hardware design - FPGAs, PCBs, RTL
 - systems programming - kernels, drivers, bare metal
-- embodied ai - manipulation, spatial reasoning, contact dynamics
 - world models - agents that predict and plan in physical environments
 - edge compute - intelligence on constrained hardware
 
-prev: ml @ apple, meta, d.e. shaw, nasa | [howard](https://howard.edu) '27 (leave)
+**interested in:**
+- embodied ai - manipulation, spatial reasoning, contact dynamics
 
-[ayomide.ai](https://ayomide.ai) · [twitter](https://twitter.com/elcruzosym) · [linkedin](https://linkedin.com/in/elcruzo)
+now: Founder @ Tapeout Labs
+
+prev: Trace (co-founder & CEO), ML @ Apple, infra @ Meta, fellow @ D.E. Shaw, academy of excellence @ Bloomberg, stints w RockSAT-C @ NASA
+
+[ayomide.ai](https://ayomide.ai) · [twitter](https://twitter.com/elcruzosym) · [linkedin](https://linkedin.com/in/ayomidecalebadekoya)
